@@ -1,4 +1,4 @@
-FROM global-base
+FROM mystelynx/docker-global
 MAINTAINER uraura <t@urau.la>
 
 ENTRYPOINT ["/usr/local/bin/global"]
